@@ -1,0 +1,453 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{66CE298D-EBFE-4B32-B8CF-8CA06B62DC70}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>StartUp_Page</RootNamespace>
+    <AssemblyName>StartUp_Page</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="itextsharp">
+      <HintPath>C:\Users\User\Downloads\Compressed\itextsharp-all-5.5.10\itextsharp-dll-core\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp.pdfa">
+      <HintPath>C:\Users\User\Downloads\Compressed\itextsharp-all-5.5.10\itextsharp-dll-pdfa\itextsharp.pdfa.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp.xtra">
+      <HintPath>C:\Users\User\Downloads\Compressed\itextsharp-all-5.5.10\itextsharp-dll-xtra\itextsharp.xtra.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Design, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Fonts, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.Fonts.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Speech" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Admin Update_Delete_Account.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin Update_Delete_Account.Designer.cs">
+      <DependentUpon>Admin Update_Delete_Account.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin Update_Delete_Store.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin Update_Delete_Store.Designer.cs">
+      <DependentUpon>Admin Update_Delete_Store.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin Update_Delete_Supplier.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin Update_Delete_Supplier.Designer.cs">
+      <DependentUpon>Admin Update_Delete_Supplier.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_Create_Account.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_Create_Account.Designer.cs">
+      <DependentUpon>Admin_Create_Account.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_Create_Product.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_Create_Product.Designer.cs">
+      <DependentUpon>Admin_Create_Product.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_Create_Store.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_Create_Store.Designer.cs">
+      <DependentUpon>Admin_Create_Store.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_Create_Supplier.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_Create_Supplier.Designer.cs">
+      <DependentUpon>Admin_Create_Supplier.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_Update_Delete_Create_Category.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_Update_Delete_Create_Category.Designer.cs">
+      <DependentUpon>Admin_Update_Delete_Create_Category.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_Update_Delete_Product.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_Update_Delete_Product.Designer.cs">
+      <DependentUpon>Admin_Update_Delete_Product.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Bill_Generate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bill_Generate.Designer.cs">
+      <DependentUpon>Bill_Generate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Discount.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Discount.Designer.cs">
+      <DependentUpon>Discount.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Edit_Own_Profile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Edit_Own_Profile.Designer.cs">
+      <DependentUpon>Edit_Own_Profile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Leave_a_Comment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Leave_a_Comment.Designer.cs">
+      <DependentUpon>Leave_a_Comment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login_SignUp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login_SignUp.Designer.cs">
+      <DependentUpon>Login_SignUp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="All_User.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="All_User.Designer.cs">
+      <DependentUpon>All_User.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Manage_Account.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Manage_Account.Designer.cs">
+      <DependentUpon>Manage_Account.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Manage_Category.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Manage_Category.Designer.cs">
+      <DependentUpon>Manage_Category.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Manage_Product.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Manage_Product.Designer.cs">
+      <DependentUpon>Manage_Product.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Manage_Store.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Manage_Store.Designer.cs">
+      <DependentUpon>Manage_Store.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Manage_Supplier.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Manage_Supplier.Designer.cs">
+      <DependentUpon>Manage_Supplier.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Place_Order_Supplier.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Place_Order_Supplier.Designer.cs">
+      <DependentUpon>Place_Order_Supplier.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Search_All_Products.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Search_All_Products.Designer.cs">
+      <DependentUpon>Search_All_Products.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Show_Contact_Details.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Show_Contact_Details.Designer.cs">
+      <DependentUpon>Show_Contact_Details.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sign_Up.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sign_Up.Designer.cs">
+      <DependentUpon>Sign_Up.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Start_Up.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Start_Up.Designer.cs">
+      <DependentUpon>Start_Up.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SplashScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SplashScreen.Designer.cs">
+      <DependentUpon>SplashScreen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View_Profile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View_Profile.Designer.cs">
+      <DependentUpon>View_Profile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Voice_Search.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Voice_Search.Designer.cs">
+      <DependentUpon>Voice_Search.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Admin Update_Delete_Account.resx">
+      <DependentUpon>Admin Update_Delete_Account.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin Update_Delete_Store.resx">
+      <DependentUpon>Admin Update_Delete_Store.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin Update_Delete_Supplier.resx">
+      <DependentUpon>Admin Update_Delete_Supplier.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_Create_Account.resx">
+      <DependentUpon>Admin_Create_Account.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_Create_Product.resx">
+      <DependentUpon>Admin_Create_Product.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_Create_Store.resx">
+      <DependentUpon>Admin_Create_Store.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_Create_Supplier.resx">
+      <DependentUpon>Admin_Create_Supplier.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_Update_Delete_Create_Category.resx">
+      <DependentUpon>Admin_Update_Delete_Create_Category.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_Update_Delete_Product.resx">
+      <DependentUpon>Admin_Update_Delete_Product.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bill_Generate.resx">
+      <DependentUpon>Bill_Generate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Discount.resx">
+      <DependentUpon>Discount.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Edit_Own_Profile.resx">
+      <DependentUpon>Edit_Own_Profile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Leave_a_Comment.resx">
+      <DependentUpon>Leave_a_Comment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login_SignUp.resx">
+      <DependentUpon>Login_SignUp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="All_User.resx">
+      <DependentUpon>All_User.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Manage_Account.resx">
+      <DependentUpon>Manage_Account.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Manage_Category.resx">
+      <DependentUpon>Manage_Category.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Manage_Product.resx">
+      <DependentUpon>Manage_Product.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Manage_Store.resx">
+      <DependentUpon>Manage_Store.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Manage_Supplier.resx">
+      <DependentUpon>Manage_Supplier.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Place_Order_Supplier.resx">
+      <DependentUpon>Place_Order_Supplier.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Search_All_Products.resx">
+      <DependentUpon>Search_All_Products.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Show_Contact_Details.resx">
+      <DependentUpon>Show_Contact_Details.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sign_Up.resx">
+      <DependentUpon>Sign_Up.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Start_Up.resx">
+      <DependentUpon>Start_Up.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="SplashScreen.resx">
+      <DependentUpon>SplashScreen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View_Profile.resx">
+      <DependentUpon>View_Profile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Voice_Search.resx">
+      <DependentUpon>Voice_Search.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Discount.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\contact.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Message %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rsz_1rsz_1rsz_logo-login.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Stores.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rsz_1rsz_ecommerce-2819730_960_720.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Splash.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Splash 2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rsz_1rsz_1rsz_1rsz_img_311846.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rsz_1rsz_1rsz_back-512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Panel.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\All Form.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Minimize.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Minimize 3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rsz_1rsz_flat-blue-home-icon-4 - Copy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rsz_minimize_3 - Copy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rsz_lock-open-blue.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rsz_add_user_icon_bluesvg.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rsz_1rsz_information-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rsz_close_blue.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rsz_no.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Yes.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LogIn_SignUp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Super Shop Title.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Business_Logic_Layer\Business_Logic_Layer.csproj">
+      <Project>{6b0e9f21-da48-44d8-bdcc-65124e6454f9}</Project>
+      <Name>Business_Logic_Layer</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rsz_businessman-xxl.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rsz_paper-invoicing-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\minus.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rsz_manage_product.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rsz_category.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Place_Order.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Manage_Profile.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rsz_all_form.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Supplier.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LogOut.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
