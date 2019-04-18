@@ -1,0 +1,615 @@
+E:\C# v 1\StartUp_Page\StartUp_Page\bin\Debug\StartUp_Page.exe.config
+E:\C# v 1\StartUp_Page\StartUp_Page\bin\Debug\StartUp_Page.exe
+E:\C# v 1\StartUp_Page\StartUp_Page\bin\Debug\StartUp_Page.pdb
+E:\C# v 1\StartUp_Page\StartUp_Page\bin\Debug\MetroFramework.Design.dll
+E:\C# v 1\StartUp_Page\StartUp_Page\bin\Debug\MetroFramework.dll
+E:\C# v 1\StartUp_Page\StartUp_Page\bin\Debug\MetroFramework.Fonts.dll
+E:\C# v 1\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.csprojResolveAssemblyReference.cache
+E:\C# v 1\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Form1.resources
+E:\C# v 1\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Properties.Resources.resources
+E:\C# v 1\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.csproj.GenerateResource.cache
+E:\C# v 1\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.csproj.CoreCompileInputs.cache
+E:\C# v 1\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.csproj.CopyComplete
+E:\C# v 1\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.exe
+E:\C# v 1\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.pdb
+E:\C# v 1 - Copy\StartUp_Page\StartUp_Page\bin\Debug\StartUp_Page.exe.config
+E:\C# v 1 - Copy\StartUp_Page\StartUp_Page\bin\Debug\StartUp_Page.exe
+E:\C# v 1 - Copy\StartUp_Page\StartUp_Page\bin\Debug\StartUp_Page.pdb
+E:\C# v 1 - Copy\StartUp_Page\StartUp_Page\bin\Debug\MetroFramework.Design.dll
+E:\C# v 1 - Copy\StartUp_Page\StartUp_Page\bin\Debug\MetroFramework.dll
+E:\C# v 1 - Copy\StartUp_Page\StartUp_Page\bin\Debug\MetroFramework.Fonts.dll
+E:\C# v 1 - Copy\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.csprojResolveAssemblyReference.cache
+E:\C# v 1 - Copy\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Start_Up.resources
+E:\C# v 1 - Copy\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Properties.Resources.resources
+E:\C# v 1 - Copy\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.SplashScreen.resources
+E:\C# v 1 - Copy\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.csproj.GenerateResource.cache
+E:\C# v 1 - Copy\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.csproj.CoreCompileInputs.cache
+E:\C# v 1 - Copy\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.csproj.CopyComplete
+E:\C# v 1 - Copy\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.exe
+E:\C# v 1 - Copy\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.pdb
+E:\C# v 2\StartUp_Page\StartUp_Page\bin\Debug\StartUp_Page.exe.config
+E:\C# v 2\StartUp_Page\StartUp_Page\bin\Debug\StartUp_Page.exe
+E:\C# v 2\StartUp_Page\StartUp_Page\bin\Debug\StartUp_Page.pdb
+E:\C# v 2\StartUp_Page\StartUp_Page\bin\Debug\MetroFramework.Design.dll
+E:\C# v 2\StartUp_Page\StartUp_Page\bin\Debug\MetroFramework.dll
+E:\C# v 2\StartUp_Page\StartUp_Page\bin\Debug\MetroFramework.Fonts.dll
+E:\C# v 2\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.csprojResolveAssemblyReference.cache
+E:\C# v 2\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Start_Up.resources
+E:\C# v 2\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Properties.Resources.resources
+E:\C# v 2\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.SplashScreen.resources
+E:\C# v 2\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.csproj.GenerateResource.cache
+E:\C# v 2\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.csproj.CoreCompileInputs.cache
+E:\C# v 2\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.csproj.CopyComplete
+E:\C# v 2\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.exe
+E:\C# v 2\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.pdb
+E:\C# v 2\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Log_In.resources
+E:\C# v 2 - Copy\StartUp_Page\StartUp_Page\bin\Debug\StartUp_Page.exe.config
+E:\C# v 2 - Copy\StartUp_Page\StartUp_Page\bin\Debug\StartUp_Page.exe
+E:\C# v 2 - Copy\StartUp_Page\StartUp_Page\bin\Debug\StartUp_Page.pdb
+E:\C# v 2 - Copy\StartUp_Page\StartUp_Page\bin\Debug\MetroFramework.Design.dll
+E:\C# v 2 - Copy\StartUp_Page\StartUp_Page\bin\Debug\MetroFramework.dll
+E:\C# v 2 - Copy\StartUp_Page\StartUp_Page\bin\Debug\MetroFramework.Fonts.dll
+E:\C# v 2 - Copy\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Start_Up.resources
+E:\C# v 2 - Copy\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Properties.Resources.resources
+E:\C# v 2 - Copy\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.SplashScreen.resources
+E:\C# v 2 - Copy\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.csproj.GenerateResource.cache
+E:\C# v 2 - Copy\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.csproj.CoreCompileInputs.cache
+E:\C# v 2 - Copy\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.csproj.CopyComplete
+E:\C# v 2 - Copy\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.exe
+E:\C# v 2 - Copy\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.pdb
+E:\C# v 2 - Copy\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Sign_Up.resources
+E:\C# v 2 - Copy\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Login_SignUp.resources
+E:\C# v 2 - Copy\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.LogIn_Control.resources
+E:\C# v 2 - Copy\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.csprojResolveAssemblyReference.cache
+E:\C# v 2 - Copy\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.SignUp_Control.resources
+E:\C# V 3\StartUp_Page\StartUp_Page\bin\Debug\StartUp_Page.exe.config
+E:\C# V 3\StartUp_Page\StartUp_Page\bin\Debug\StartUp_Page.exe
+E:\C# V 3\StartUp_Page\StartUp_Page\bin\Debug\StartUp_Page.pdb
+E:\C# V 3\StartUp_Page\StartUp_Page\bin\Debug\MetroFramework.Design.dll
+E:\C# V 3\StartUp_Page\StartUp_Page\bin\Debug\MetroFramework.dll
+E:\C# V 3\StartUp_Page\StartUp_Page\bin\Debug\MetroFramework.Fonts.dll
+E:\C# V 3\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.LogIn_Control.resources
+E:\C# V 3\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Login_SignUp.resources
+E:\C# V 3\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.SignUp_Control.resources
+E:\C# V 3\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Sign_Up.resources
+E:\C# V 3\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Start_Up.resources
+E:\C# V 3\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Properties.Resources.resources
+E:\C# V 3\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.SplashScreen.resources
+E:\C# V 3\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.csproj.GenerateResource.cache
+E:\C# V 3\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.csproj.CoreCompileInputs.cache
+E:\C# V 3\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.csproj.CopyComplete
+E:\C# V 3\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.exe
+E:\C# V 3\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.pdb
+E:\C# V 3\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.csprojResolveAssemblyReference.cache
+E:\C# V 3 - Copy\StartUp_Page\StartUp_Page\bin\Debug\StartUp_Page.exe.config
+E:\C# V 3 - Copy\StartUp_Page\StartUp_Page\bin\Debug\StartUp_Page.exe
+E:\C# V 3 - Copy\StartUp_Page\StartUp_Page\bin\Debug\StartUp_Page.pdb
+E:\C# V 3 - Copy\StartUp_Page\StartUp_Page\bin\Debug\MetroFramework.Design.dll
+E:\C# V 3 - Copy\StartUp_Page\StartUp_Page\bin\Debug\MetroFramework.dll
+E:\C# V 3 - Copy\StartUp_Page\StartUp_Page\bin\Debug\MetroFramework.Fonts.dll
+E:\C# V 3 - Copy\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.LogIn_Control.resources
+E:\C# V 3 - Copy\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Login_SignUp.resources
+E:\C# V 3 - Copy\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.SignUp_Control.resources
+E:\C# V 3 - Copy\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Start_Up.resources
+E:\C# V 3 - Copy\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Properties.Resources.resources
+E:\C# V 3 - Copy\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.SplashScreen.resources
+E:\C# V 3 - Copy\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.csproj.GenerateResource.cache
+E:\C# V 3 - Copy\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.csproj.CoreCompileInputs.cache
+E:\C# V 3 - Copy\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.csproj.CopyComplete
+E:\C# V 3 - Copy\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.exe
+E:\C# V 3 - Copy\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.pdb
+E:\C# V 3 - Copy\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.csprojResolveAssemblyReference.cache
+E:\C# V 3 - Copy - Copy\StartUp_Page\StartUp_Page\bin\Debug\StartUp_Page.exe.config
+E:\C# V 3 - Copy - Copy\StartUp_Page\StartUp_Page\bin\Debug\StartUp_Page.exe
+E:\C# V 3 - Copy - Copy\StartUp_Page\StartUp_Page\bin\Debug\StartUp_Page.pdb
+E:\C# V 3 - Copy - Copy\StartUp_Page\StartUp_Page\bin\Debug\Business_Logic_Layer.dll
+E:\C# V 3 - Copy - Copy\StartUp_Page\StartUp_Page\bin\Debug\MetroFramework.Design.dll
+E:\C# V 3 - Copy - Copy\StartUp_Page\StartUp_Page\bin\Debug\MetroFramework.dll
+E:\C# V 3 - Copy - Copy\StartUp_Page\StartUp_Page\bin\Debug\MetroFramework.Fonts.dll
+E:\C# V 3 - Copy - Copy\StartUp_Page\StartUp_Page\bin\Debug\Data_Access_Layer.dll
+E:\C# V 3 - Copy - Copy\StartUp_Page\StartUp_Page\bin\Debug\Business_Logic_Layer.pdb
+E:\C# V 3 - Copy - Copy\StartUp_Page\StartUp_Page\bin\Debug\Data_Access_Layer.pdb
+E:\C# V 3 - Copy - Copy\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.csprojResolveAssemblyReference.cache
+E:\C# V 3 - Copy - Copy\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.LogIn_Control.resources
+E:\C# V 3 - Copy - Copy\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Login_SignUp.resources
+E:\C# V 3 - Copy - Copy\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.SignUp_Control.resources
+E:\C# V 3 - Copy - Copy\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Start_Up.resources
+E:\C# V 3 - Copy - Copy\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Properties.Resources.resources
+E:\C# V 3 - Copy - Copy\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.SplashScreen.resources
+E:\C# V 3 - Copy - Copy\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.csproj.GenerateResource.cache
+E:\C# V 3 - Copy - Copy\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.csproj.CoreCompileInputs.cache
+E:\C# V 3 - Copy - Copy\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.csproj.CopyComplete
+E:\C# V 3 - Copy - Copy\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.exe
+E:\C# V 3 - Copy - Copy\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.pdb
+E:\C# V 4\StartUp_Page\StartUp_Page\bin\Debug\StartUp_Page.exe.config
+E:\C# V 4\StartUp_Page\StartUp_Page\bin\Debug\StartUp_Page.exe
+E:\C# V 4\StartUp_Page\StartUp_Page\bin\Debug\StartUp_Page.pdb
+E:\C# V 4\StartUp_Page\StartUp_Page\bin\Debug\Business_Logic_Layer.dll
+E:\C# V 4\StartUp_Page\StartUp_Page\bin\Debug\MetroFramework.Design.dll
+E:\C# V 4\StartUp_Page\StartUp_Page\bin\Debug\MetroFramework.dll
+E:\C# V 4\StartUp_Page\StartUp_Page\bin\Debug\MetroFramework.Fonts.dll
+E:\C# V 4\StartUp_Page\StartUp_Page\bin\Debug\Data_Access_Layer.dll
+E:\C# V 4\StartUp_Page\StartUp_Page\bin\Debug\Business_Logic_Layer.pdb
+E:\C# V 4\StartUp_Page\StartUp_Page\bin\Debug\Data_Access_Layer.pdb
+E:\C# V 4\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.csprojResolveAssemblyReference.cache
+E:\C# V 4\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.LogIn_Control.resources
+E:\C# V 4\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Login_SignUp.resources
+E:\C# V 4\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.SignUp_Control.resources
+E:\C# V 4\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Start_Up.resources
+E:\C# V 4\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Properties.Resources.resources
+E:\C# V 4\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.SplashScreen.resources
+E:\C# V 4\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.csproj.GenerateResource.cache
+E:\C# V 4\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.csproj.CoreCompileInputs.cache
+E:\C# V 4\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.csproj.CopyComplete
+E:\C# V 4\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.exe
+E:\C# V 4\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.pdb
+E:\C# V 4\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Sales_Man.resources
+E:\C# V 4 - Copy\StartUp_Page\StartUp_Page\bin\Debug\StartUp_Page.exe.config
+E:\C# V 4 - Copy\StartUp_Page\StartUp_Page\bin\Debug\StartUp_Page.exe
+E:\C# V 4 - Copy\StartUp_Page\StartUp_Page\bin\Debug\StartUp_Page.pdb
+E:\C# V 4 - Copy\StartUp_Page\StartUp_Page\bin\Debug\Business_Logic_Layer.dll
+E:\C# V 4 - Copy\StartUp_Page\StartUp_Page\bin\Debug\MetroFramework.Design.dll
+E:\C# V 4 - Copy\StartUp_Page\StartUp_Page\bin\Debug\MetroFramework.dll
+E:\C# V 4 - Copy\StartUp_Page\StartUp_Page\bin\Debug\MetroFramework.Fonts.dll
+E:\C# V 4 - Copy\StartUp_Page\StartUp_Page\bin\Debug\Data_Access_Layer.dll
+E:\C# V 4 - Copy\StartUp_Page\StartUp_Page\bin\Debug\Business_Logic_Layer.pdb
+E:\C# V 4 - Copy\StartUp_Page\StartUp_Page\bin\Debug\Data_Access_Layer.pdb
+E:\C# V 4 - Copy\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.csprojResolveAssemblyReference.cache
+E:\C# V 4 - Copy\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.LogIn_Control.resources
+E:\C# V 4 - Copy\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Login_SignUp.resources
+E:\C# V 4 - Copy\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Sales_Man.resources
+E:\C# V 4 - Copy\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.SignUp_Control.resources
+E:\C# V 4 - Copy\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Start_Up.resources
+E:\C# V 4 - Copy\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Properties.Resources.resources
+E:\C# V 4 - Copy\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.SplashScreen.resources
+E:\C# V 4 - Copy\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.csproj.GenerateResource.cache
+E:\C# V 4 - Copy\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.csproj.CoreCompileInputs.cache
+E:\C# V 4 - Copy\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.csproj.CopyComplete
+E:\C# V 4 - Copy\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.exe
+E:\C# V 4 - Copy\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.pdb
+E:\C# V 4 - Copy\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Edit_Profile_Control.resources
+E:\C# V 4 - Copy\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.View_Profile_Control.resources
+C:\Users\Tawhid\Desktop\newTawhid\C# V 45\StartUp_Page\StartUp_Page\bin\Debug\StartUp_Page.exe.config
+C:\Users\Tawhid\Desktop\newTawhid\C# V 45\StartUp_Page\StartUp_Page\bin\Debug\StartUp_Page.exe
+C:\Users\Tawhid\Desktop\newTawhid\C# V 45\StartUp_Page\StartUp_Page\bin\Debug\StartUp_Page.pdb
+C:\Users\Tawhid\Desktop\newTawhid\C# V 45\StartUp_Page\StartUp_Page\bin\Debug\Business_Logic_Layer.dll
+C:\Users\Tawhid\Desktop\newTawhid\C# V 45\StartUp_Page\StartUp_Page\bin\Debug\MetroFramework.Design.dll
+C:\Users\Tawhid\Desktop\newTawhid\C# V 45\StartUp_Page\StartUp_Page\bin\Debug\MetroFramework.dll
+C:\Users\Tawhid\Desktop\newTawhid\C# V 45\StartUp_Page\StartUp_Page\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Tawhid\Desktop\newTawhid\C# V 45\StartUp_Page\StartUp_Page\bin\Debug\Data_Access_Layer.dll
+C:\Users\Tawhid\Desktop\newTawhid\C# V 45\StartUp_Page\StartUp_Page\bin\Debug\Business_Logic_Layer.pdb
+C:\Users\Tawhid\Desktop\newTawhid\C# V 45\StartUp_Page\StartUp_Page\bin\Debug\Data_Access_Layer.pdb
+C:\Users\Tawhid\Desktop\newTawhid\C# V 45\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.csprojResolveAssemblyReference.cache
+C:\Users\Tawhid\Desktop\newTawhid\C# V 45\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Edit_Profile_Control.resources
+C:\Users\Tawhid\Desktop\newTawhid\C# V 45\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.LogIn_Control.resources
+C:\Users\Tawhid\Desktop\newTawhid\C# V 45\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Login_SignUp.resources
+C:\Users\Tawhid\Desktop\newTawhid\C# V 45\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Sales_Man.resources
+C:\Users\Tawhid\Desktop\newTawhid\C# V 45\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.SignUp_Control.resources
+C:\Users\Tawhid\Desktop\newTawhid\C# V 45\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Start_Up.resources
+C:\Users\Tawhid\Desktop\newTawhid\C# V 45\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Properties.Resources.resources
+C:\Users\Tawhid\Desktop\newTawhid\C# V 45\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.SplashScreen.resources
+C:\Users\Tawhid\Desktop\newTawhid\C# V 45\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.View_Profile_Control.resources
+C:\Users\Tawhid\Desktop\newTawhid\C# V 45\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.csproj.GenerateResource.Cache
+C:\Users\Tawhid\Desktop\newTawhid\C# V 45\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.csproj.CoreCompileInputs.cache
+C:\Users\Tawhid\Desktop\newTawhid\C# V 45\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.exe
+C:\Users\Tawhid\Desktop\newTawhid\C# V 45\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.pdb
+C:\Users\Tawhid\Desktop\newTawhid\C# V 45\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.ManageAccount.resources
+C:\Users\Tawhid\Desktop\newTawhid\C# V 45\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.UpdateDeleteAccount.resources
+C:\Users\Tawhid\Desktop\newTawhid\C# V 45\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.AdminCreatedAccount.resources
+C:\Users\Tawhid\Desktop\newTawhid\C# V 45\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.ManageProduct.resources
+C:\Users\Tawhid\Desktop\newTawhid\C# V 45\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.UpdateDeleteProduct.resources
+C:\Users\Tawhid\Desktop\newTawhid\C# V 45\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.SeachProduct.resources
+E:\Project Version 1\StartUp_Page\StartUp_Page\bin\Debug\StartUp_Page.exe.config
+E:\Project Version 1\StartUp_Page\StartUp_Page\bin\Debug\StartUp_Page.exe
+E:\Project Version 1\StartUp_Page\StartUp_Page\bin\Debug\StartUp_Page.pdb
+E:\Project Version 1\StartUp_Page\StartUp_Page\bin\Debug\Business_Logic_Layer.dll
+E:\Project Version 1\StartUp_Page\StartUp_Page\bin\Debug\MetroFramework.Design.dll
+E:\Project Version 1\StartUp_Page\StartUp_Page\bin\Debug\MetroFramework.dll
+E:\Project Version 1\StartUp_Page\StartUp_Page\bin\Debug\MetroFramework.Fonts.dll
+E:\Project Version 1\StartUp_Page\StartUp_Page\bin\Debug\Data_Access_Layer.dll
+E:\Project Version 1\StartUp_Page\StartUp_Page\bin\Debug\Business_Logic_Layer.pdb
+E:\Project Version 1\StartUp_Page\StartUp_Page\bin\Debug\Data_Access_Layer.pdb
+E:\Project Version 1\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.csprojResolveAssemblyReference.cache
+E:\Project Version 1\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.AdminCreatedAccount.resources
+E:\Project Version 1\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Edit_Profile_Control.resources
+E:\Project Version 1\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.LogIn_Control.resources
+E:\Project Version 1\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Login_SignUp.resources
+E:\Project Version 1\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.ManageAccount.resources
+E:\Project Version 1\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.ManageProduct.resources
+E:\Project Version 1\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Sales_Man.resources
+E:\Project Version 1\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.SeachProduct.resources
+E:\Project Version 1\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.SignUp_Control.resources
+E:\Project Version 1\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Start_Up.resources
+E:\Project Version 1\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Properties.Resources.resources
+E:\Project Version 1\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.SplashScreen.resources
+E:\Project Version 1\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.UpdateDeleteAccount.resources
+E:\Project Version 1\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.UpdateDeleteProduct.resources
+E:\Project Version 1\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.View_Profile_Control.resources
+E:\Project Version 1\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.csproj.GenerateResource.cache
+E:\Project Version 1\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.csproj.CoreCompileInputs.cache
+E:\Project Version 1\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.csproj.CopyComplete
+E:\Project Version 1\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.exe
+E:\Project Version 1\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.pdb
+E:\Project Version 1 - Copy\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.csprojResolveAssemblyReference.cache
+E:\Project Version 1 - Copy\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.AdminCreatedAccount.resources
+E:\Project Version 1 - Copy\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Login_SignUp.resources
+E:\Project Version 1 - Copy\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.ManageAccount.resources
+E:\Project Version 1 - Copy\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.ManageProduct.resources
+E:\Project Version 1 - Copy\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Sales_Man.resources
+E:\Project Version 1 - Copy\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.SeachProduct.resources
+E:\Project Version 1 - Copy\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Sign_Up.resources
+E:\Project Version 1 - Copy\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Start_Up.resources
+E:\Project Version 1 - Copy\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Properties.Resources.resources
+E:\Project Version 1 - Copy\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.SplashScreen.resources
+E:\Project Version 1 - Copy\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.UpdateDeleteAccount.resources
+E:\Project Version 1 - Copy\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.UpdateDeleteProduct.resources
+E:\Project Version 1 - Copy\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.csproj.GenerateResource.cache
+E:\Project Version 1 - Copy\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.csproj.CoreCompileInputs.cache
+E:\Project Version 1 - Copy\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.exe
+E:\Project Version 1 - Copy\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.pdb
+E:\Project Version 1 - Copy\StartUp_Page\StartUp_Page\bin\Debug\StartUp_Page.exe.config
+E:\Project Version 1 - Copy\StartUp_Page\StartUp_Page\bin\Debug\StartUp_Page.exe
+E:\Project Version 1 - Copy\StartUp_Page\StartUp_Page\bin\Debug\StartUp_Page.pdb
+E:\Project Version 1 - Copy\StartUp_Page\StartUp_Page\bin\Debug\Business_Logic_Layer.dll
+E:\Project Version 1 - Copy\StartUp_Page\StartUp_Page\bin\Debug\MetroFramework.Design.dll
+E:\Project Version 1 - Copy\StartUp_Page\StartUp_Page\bin\Debug\MetroFramework.dll
+E:\Project Version 1 - Copy\StartUp_Page\StartUp_Page\bin\Debug\MetroFramework.Fonts.dll
+E:\Project Version 1 - Copy\StartUp_Page\StartUp_Page\bin\Debug\Data_Access_Layer.dll
+E:\Project Version 1 - Copy\StartUp_Page\StartUp_Page\bin\Debug\Business_Logic_Layer.pdb
+E:\Project Version 1 - Copy\StartUp_Page\StartUp_Page\bin\Debug\Data_Access_Layer.pdb
+E:\Project Version 1 - Copy\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.csproj.CopyComplete
+C:\Users\Tawhid\Desktop\newTawhid\Project Version 1 - Copy\StartUp_Page\StartUp_Page\bin\Debug\StartUp_Page.exe.config
+C:\Users\Tawhid\Desktop\newTawhid\Project Version 1 - Copy\StartUp_Page\StartUp_Page\bin\Debug\StartUp_Page.exe
+C:\Users\Tawhid\Desktop\newTawhid\Project Version 1 - Copy\StartUp_Page\StartUp_Page\bin\Debug\StartUp_Page.pdb
+C:\Users\Tawhid\Desktop\newTawhid\Project Version 1 - Copy\StartUp_Page\StartUp_Page\bin\Debug\Business_Logic_Layer.dll
+C:\Users\Tawhid\Desktop\newTawhid\Project Version 1 - Copy\StartUp_Page\StartUp_Page\bin\Debug\MetroFramework.Design.dll
+C:\Users\Tawhid\Desktop\newTawhid\Project Version 1 - Copy\StartUp_Page\StartUp_Page\bin\Debug\MetroFramework.dll
+C:\Users\Tawhid\Desktop\newTawhid\Project Version 1 - Copy\StartUp_Page\StartUp_Page\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Tawhid\Desktop\newTawhid\Project Version 1 - Copy\StartUp_Page\StartUp_Page\bin\Debug\Data_Access_Layer.dll
+C:\Users\Tawhid\Desktop\newTawhid\Project Version 1 - Copy\StartUp_Page\StartUp_Page\bin\Debug\Business_Logic_Layer.pdb
+C:\Users\Tawhid\Desktop\newTawhid\Project Version 1 - Copy\StartUp_Page\StartUp_Page\bin\Debug\Data_Access_Layer.pdb
+C:\Users\Tawhid\Desktop\newTawhid\Project Version 1 - Copy\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.csprojResolveAssemblyReference.cache
+C:\Users\Tawhid\Desktop\newTawhid\Project Version 1 - Copy\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.AdminCreatedAccount.resources
+C:\Users\Tawhid\Desktop\newTawhid\Project Version 1 - Copy\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Login_SignUp.resources
+C:\Users\Tawhid\Desktop\newTawhid\Project Version 1 - Copy\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.ManageAccount.resources
+C:\Users\Tawhid\Desktop\newTawhid\Project Version 1 - Copy\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.ManageProduct.resources
+C:\Users\Tawhid\Desktop\newTawhid\Project Version 1 - Copy\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Sales_Man.resources
+C:\Users\Tawhid\Desktop\newTawhid\Project Version 1 - Copy\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.SeachProduct.resources
+C:\Users\Tawhid\Desktop\newTawhid\Project Version 1 - Copy\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Sign_Up.resources
+C:\Users\Tawhid\Desktop\newTawhid\Project Version 1 - Copy\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Start_Up.resources
+C:\Users\Tawhid\Desktop\newTawhid\Project Version 1 - Copy\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Properties.Resources.resources
+C:\Users\Tawhid\Desktop\newTawhid\Project Version 1 - Copy\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.SplashScreen.resources
+C:\Users\Tawhid\Desktop\newTawhid\Project Version 1 - Copy\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.UpdateDeleteAccount.resources
+C:\Users\Tawhid\Desktop\newTawhid\Project Version 1 - Copy\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.UpdateDeleteProduct.resources
+C:\Users\Tawhid\Desktop\newTawhid\Project Version 1 - Copy\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.csproj.GenerateResource.Cache
+C:\Users\Tawhid\Desktop\newTawhid\Project Version 1 - Copy\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.csproj.CoreCompileInputs.cache
+C:\Users\Tawhid\Desktop\newTawhid\Project Version 1 - Copy\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.exe
+C:\Users\Tawhid\Desktop\newTawhid\Project Version 1 - Copy\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.pdb
+C:\Users\Tawhid\Desktop\newTawhid\Project Version 1 - Copy\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Store_Info.resources
+C:\Users\Tawhid\Desktop\newTawhid\Project Version 1 - Copy\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.DiscountInfo.resources
+C:\Users\Tawhid\Desktop\newTawhid\Project Version 1 - Copy\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.ManageStore.resources
+C:\Users\Tawhid\Desktop\newTawhid\Project Version 1 - Copy\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.UpdateDeleteStore.resources
+C:\Users\Tawhid\Desktop\newTawhid\Project Version 1 - Copy\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.GenerateBill.resources
+C:\Users\Tawhid\Desktop\newTawhid\Project Version Latest 1 - Copy\StartUp_Page\StartUp_Page\bin\Debug\StartUp_Page.exe.config
+C:\Users\Tawhid\Desktop\newTawhid\Project Version Latest 1 - Copy\StartUp_Page\StartUp_Page\bin\Debug\StartUp_Page.exe
+C:\Users\Tawhid\Desktop\newTawhid\Project Version Latest 1 - Copy\StartUp_Page\StartUp_Page\bin\Debug\StartUp_Page.pdb
+C:\Users\Tawhid\Desktop\newTawhid\Project Version Latest 1 - Copy\StartUp_Page\StartUp_Page\bin\Debug\Business_Logic_Layer.dll
+C:\Users\Tawhid\Desktop\newTawhid\Project Version Latest 1 - Copy\StartUp_Page\StartUp_Page\bin\Debug\MetroFramework.Design.dll
+C:\Users\Tawhid\Desktop\newTawhid\Project Version Latest 1 - Copy\StartUp_Page\StartUp_Page\bin\Debug\MetroFramework.dll
+C:\Users\Tawhid\Desktop\newTawhid\Project Version Latest 1 - Copy\StartUp_Page\StartUp_Page\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Tawhid\Desktop\newTawhid\Project Version Latest 1 - Copy\StartUp_Page\StartUp_Page\bin\Debug\Data_Access_Layer.dll
+C:\Users\Tawhid\Desktop\newTawhid\Project Version Latest 1 - Copy\StartUp_Page\StartUp_Page\bin\Debug\Business_Logic_Layer.pdb
+C:\Users\Tawhid\Desktop\newTawhid\Project Version Latest 1 - Copy\StartUp_Page\StartUp_Page\bin\Debug\Data_Access_Layer.pdb
+C:\Users\Tawhid\Desktop\newTawhid\Project Version Latest 1 - Copy\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.csprojResolveAssemblyReference.cache
+C:\Users\Tawhid\Desktop\newTawhid\Project Version Latest 1 - Copy\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.AdminCreatedAccount.resources
+C:\Users\Tawhid\Desktop\newTawhid\Project Version Latest 1 - Copy\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.DiscountInfo.resources
+C:\Users\Tawhid\Desktop\newTawhid\Project Version Latest 1 - Copy\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.GenerateBill.resources
+C:\Users\Tawhid\Desktop\newTawhid\Project Version Latest 1 - Copy\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Login_SignUp.resources
+C:\Users\Tawhid\Desktop\newTawhid\Project Version Latest 1 - Copy\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.ManageAccount.resources
+C:\Users\Tawhid\Desktop\newTawhid\Project Version Latest 1 - Copy\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.ManageProduct.resources
+C:\Users\Tawhid\Desktop\newTawhid\Project Version Latest 1 - Copy\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.ManageStore.resources
+C:\Users\Tawhid\Desktop\newTawhid\Project Version Latest 1 - Copy\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Sales_Man.resources
+C:\Users\Tawhid\Desktop\newTawhid\Project Version Latest 1 - Copy\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.SeachProduct.resources
+C:\Users\Tawhid\Desktop\newTawhid\Project Version Latest 1 - Copy\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Sign_Up.resources
+C:\Users\Tawhid\Desktop\newTawhid\Project Version Latest 1 - Copy\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Start_Up.resources
+C:\Users\Tawhid\Desktop\newTawhid\Project Version Latest 1 - Copy\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Properties.Resources.resources
+C:\Users\Tawhid\Desktop\newTawhid\Project Version Latest 1 - Copy\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.SplashScreen.resources
+C:\Users\Tawhid\Desktop\newTawhid\Project Version Latest 1 - Copy\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Store_Info.resources
+C:\Users\Tawhid\Desktop\newTawhid\Project Version Latest 1 - Copy\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.UpdateDeleteAccount.resources
+C:\Users\Tawhid\Desktop\newTawhid\Project Version Latest 1 - Copy\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.UpdateDeleteProduct.resources
+C:\Users\Tawhid\Desktop\newTawhid\Project Version Latest 1 - Copy\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.UpdateDeleteStore.resources
+C:\Users\Tawhid\Desktop\newTawhid\Project Version Latest 1 - Copy\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.csproj.GenerateResource.Cache
+C:\Users\Tawhid\Desktop\newTawhid\Project Version Latest 1 - Copy\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.csproj.CoreCompileInputs.cache
+C:\Users\Tawhid\Desktop\newTawhid\Project Version Latest 1 - Copy\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.exe
+C:\Users\Tawhid\Desktop\newTawhid\Project Version Latest 1 - Copy\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.pdb
+C:\Users\Tawhid\Desktop\newTawhid\Project Version Latest 1 - Copy\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.AdminCreatedProduct.resources
+C:\Users\Tawhid\Desktop\newTawhid\Project Version Latest 1 - Copy\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.OwnContactShow.resources
+C:\Users\Tawhid\Desktop\newTawhid\Project Version Latest 1 - Copy\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.OwnProfileView.resources
+C:\Users\Tawhid\Desktop\newTawhid\Project Version Latest 1 - Copy\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.OwnProfileEdit.resources
+E:\Final V 1 - Editing Going On\Latest Project C#\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.csprojResolveAssemblyReference.cache
+E:\Final V 1 - Editing Going On\Latest Project C#\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.AdminCreatedAccount.resources
+E:\Final V 1 - Editing Going On\Latest Project C#\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.AdminCreatedProduct.resources
+E:\Final V 1 - Editing Going On\Latest Project C#\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.DiscountInfo.resources
+E:\Final V 1 - Editing Going On\Latest Project C#\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.GenerateBill.resources
+E:\Final V 1 - Editing Going On\Latest Project C#\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Login_SignUp.resources
+E:\Final V 1 - Editing Going On\Latest Project C#\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.ManageAccount.resources
+E:\Final V 1 - Editing Going On\Latest Project C#\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.ManageProduct.resources
+E:\Final V 1 - Editing Going On\Latest Project C#\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.ManageStore.resources
+E:\Final V 1 - Editing Going On\Latest Project C#\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.OwnContactShow.resources
+E:\Final V 1 - Editing Going On\Latest Project C#\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.OwnProfileEdit.resources
+E:\Final V 1 - Editing Going On\Latest Project C#\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.OwnProfileView.resources
+E:\Final V 1 - Editing Going On\Latest Project C#\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Sales_Man.resources
+E:\Final V 1 - Editing Going On\Latest Project C#\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.SeachProduct.resources
+E:\Final V 1 - Editing Going On\Latest Project C#\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Sign_Up.resources
+E:\Final V 1 - Editing Going On\Latest Project C#\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Start_Up.resources
+E:\Final V 1 - Editing Going On\Latest Project C#\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Properties.Resources.resources
+E:\Final V 1 - Editing Going On\Latest Project C#\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.SplashScreen.resources
+E:\Final V 1 - Editing Going On\Latest Project C#\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Store_Info.resources
+E:\Final V 1 - Editing Going On\Latest Project C#\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.UpdateDeleteAccount.resources
+E:\Final V 1 - Editing Going On\Latest Project C#\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.UpdateDeleteProduct.resources
+E:\Final V 1 - Editing Going On\Latest Project C#\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.UpdateDeleteStore.resources
+E:\Final V 1 - Editing Going On\Latest Project C#\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.csproj.GenerateResource.cache
+E:\Final V 1 - Editing Going On\Latest Project C#\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.csproj.CoreCompileInputs.cache
+E:\Final V 1 - Editing Going On\Latest Project C#\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.exe
+E:\Final V 1 - Editing Going On\Latest Project C#\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.pdb
+E:\Final V 1 - Editing Going On\Latest Project C#\StartUp_Page\StartUp_Page\bin\Debug\StartUp_Page.exe.config
+E:\Final V 1 - Editing Going On\Latest Project C#\StartUp_Page\StartUp_Page\bin\Debug\StartUp_Page.exe
+E:\Final V 1 - Editing Going On\Latest Project C#\StartUp_Page\StartUp_Page\bin\Debug\StartUp_Page.pdb
+E:\Final V 1 - Editing Going On\Latest Project C#\StartUp_Page\StartUp_Page\bin\Debug\Business_Logic_Layer.dll
+E:\Final V 1 - Editing Going On\Latest Project C#\StartUp_Page\StartUp_Page\bin\Debug\MetroFramework.Design.dll
+E:\Final V 1 - Editing Going On\Latest Project C#\StartUp_Page\StartUp_Page\bin\Debug\MetroFramework.dll
+E:\Final V 1 - Editing Going On\Latest Project C#\StartUp_Page\StartUp_Page\bin\Debug\MetroFramework.Fonts.dll
+E:\Final V 1 - Editing Going On\Latest Project C#\StartUp_Page\StartUp_Page\bin\Debug\Data_Access_Layer.dll
+E:\Final V 1 - Editing Going On\Latest Project C#\StartUp_Page\StartUp_Page\bin\Debug\Business_Logic_Layer.pdb
+E:\Final V 1 - Editing Going On\Latest Project C#\StartUp_Page\StartUp_Page\bin\Debug\Data_Access_Layer.pdb
+E:\Final V 1 - Editing Going On\Latest Project C#\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.csproj.CopyComplete
+E:\Final V 1 - Editing Going On - Copy\Latest Project C#\StartUp_Page\StartUp_Page\bin\Debug\StartUp_Page.exe.config
+E:\Final V 1 - Editing Going On - Copy\Latest Project C#\StartUp_Page\StartUp_Page\bin\Debug\StartUp_Page.exe
+E:\Final V 1 - Editing Going On - Copy\Latest Project C#\StartUp_Page\StartUp_Page\bin\Debug\StartUp_Page.pdb
+E:\Final V 1 - Editing Going On - Copy\Latest Project C#\StartUp_Page\StartUp_Page\bin\Debug\Business_Logic_Layer.dll
+E:\Final V 1 - Editing Going On - Copy\Latest Project C#\StartUp_Page\StartUp_Page\bin\Debug\MetroFramework.Design.dll
+E:\Final V 1 - Editing Going On - Copy\Latest Project C#\StartUp_Page\StartUp_Page\bin\Debug\MetroFramework.dll
+E:\Final V 1 - Editing Going On - Copy\Latest Project C#\StartUp_Page\StartUp_Page\bin\Debug\MetroFramework.Fonts.dll
+E:\Final V 1 - Editing Going On - Copy\Latest Project C#\StartUp_Page\StartUp_Page\bin\Debug\Data_Access_Layer.dll
+E:\Final V 1 - Editing Going On - Copy\Latest Project C#\StartUp_Page\StartUp_Page\bin\Debug\Business_Logic_Layer.pdb
+E:\Final V 1 - Editing Going On - Copy\Latest Project C#\StartUp_Page\StartUp_Page\bin\Debug\Data_Access_Layer.pdb
+E:\Final V 1 - Editing Going On - Copy\Latest Project C#\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.csprojResolveAssemblyReference.cache
+E:\Final V 1 - Editing Going On - Copy\Latest Project C#\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.AdminCreatedAccount.resources
+E:\Final V 1 - Editing Going On - Copy\Latest Project C#\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.AdminCreatedProduct.resources
+E:\Final V 1 - Editing Going On - Copy\Latest Project C#\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.DiscountInfo.resources
+E:\Final V 1 - Editing Going On - Copy\Latest Project C#\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.GenerateBill.resources
+E:\Final V 1 - Editing Going On - Copy\Latest Project C#\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Leave_a_Comment.resources
+E:\Final V 1 - Editing Going On - Copy\Latest Project C#\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Login_SignUp.resources
+E:\Final V 1 - Editing Going On - Copy\Latest Project C#\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.ManageAccount.resources
+E:\Final V 1 - Editing Going On - Copy\Latest Project C#\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.ManageProduct.resources
+E:\Final V 1 - Editing Going On - Copy\Latest Project C#\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.ManageStore.resources
+E:\Final V 1 - Editing Going On - Copy\Latest Project C#\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.OwnContactShow.resources
+E:\Final V 1 - Editing Going On - Copy\Latest Project C#\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.OwnProfileEdit.resources
+E:\Final V 1 - Editing Going On - Copy\Latest Project C#\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.OwnProfileView.resources
+E:\Final V 1 - Editing Going On - Copy\Latest Project C#\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Sales_Man.resources
+E:\Final V 1 - Editing Going On - Copy\Latest Project C#\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.SeachProduct.resources
+E:\Final V 1 - Editing Going On - Copy\Latest Project C#\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Sign_Up.resources
+E:\Final V 1 - Editing Going On - Copy\Latest Project C#\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Start_Up.resources
+E:\Final V 1 - Editing Going On - Copy\Latest Project C#\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Properties.Resources.resources
+E:\Final V 1 - Editing Going On - Copy\Latest Project C#\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.SplashScreen.resources
+E:\Final V 1 - Editing Going On - Copy\Latest Project C#\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Store_Info.resources
+E:\Final V 1 - Editing Going On - Copy\Latest Project C#\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.UpdateDeleteAccount.resources
+E:\Final V 1 - Editing Going On - Copy\Latest Project C#\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.UpdateDeleteProduct.resources
+E:\Final V 1 - Editing Going On - Copy\Latest Project C#\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.UpdateDeleteStore.resources
+E:\Final V 1 - Editing Going On - Copy\Latest Project C#\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.csproj.GenerateResource.cache
+E:\Final V 1 - Editing Going On - Copy\Latest Project C#\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.csproj.CoreCompileInputs.cache
+E:\Final V 1 - Editing Going On - Copy\Latest Project C#\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.csproj.CopyComplete
+E:\Final V 1 - Editing Going On - Copy\Latest Project C#\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.exe
+E:\Final V 1 - Editing Going On - Copy\Latest Project C#\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.pdb
+E:\Final V 1 - Editing Going On - Copy\Latest Project C#\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Voice_Search.resources
+F:\Resubmission V 1\Latest Project C#\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.csprojResolveAssemblyReference.cache
+F:\Resubmission V 1\Latest Project C#\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Leave_a_Comment.resources
+F:\Resubmission V 1\Latest Project C#\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Login_SignUp.resources
+F:\Resubmission V 1\Latest Project C#\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Sign_Up.resources
+F:\Resubmission V 1\Latest Project C#\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Start_Up.resources
+F:\Resubmission V 1\Latest Project C#\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Properties.Resources.resources
+F:\Resubmission V 1\Latest Project C#\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.SplashScreen.resources
+F:\Resubmission V 1\Latest Project C#\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Voice_Search.resources
+F:\Resubmission V 1\Latest Project C#\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.csproj.GenerateResource.cache
+F:\Resubmission V 1\Latest Project C#\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.csproj.CoreCompileInputs.cache
+F:\Resubmission V 1\Latest Project C#\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.exe
+F:\Resubmission V 1\Latest Project C#\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.pdb
+F:\Resubmission V 1\Latest Project C#\StartUp_Page\StartUp_Page\bin\Debug\StartUp_Page.exe
+F:\Resubmission V 1\Latest Project C#\StartUp_Page\StartUp_Page\bin\Debug\StartUp_Page.pdb
+F:\Resubmission V 1\Latest Project C#\StartUp_Page\StartUp_Page\bin\Debug\Business_Logic_Layer.dll
+F:\Resubmission V 1\Latest Project C#\StartUp_Page\StartUp_Page\bin\Debug\MetroFramework.Design.dll
+F:\Resubmission V 1\Latest Project C#\StartUp_Page\StartUp_Page\bin\Debug\MetroFramework.dll
+F:\Resubmission V 1\Latest Project C#\StartUp_Page\StartUp_Page\bin\Debug\MetroFramework.Fonts.dll
+F:\Resubmission V 1\Latest Project C#\StartUp_Page\StartUp_Page\bin\Debug\Data_Access_Layer.dll
+F:\Resubmission V 1\Latest Project C#\StartUp_Page\StartUp_Page\bin\Debug\Business_Logic_Layer.pdb
+F:\Resubmission V 1\Latest Project C#\StartUp_Page\StartUp_Page\bin\Debug\Data_Access_Layer.pdb
+F:\Resubmission V 1\Latest Project C#\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.csproj.CopyComplete
+F:\Resubmission V 1\Latest Project C#\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.All_User.resources
+F:\Resubmission V 1\Latest Project C#\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Manage_Account.resources
+F:\Resubmission V 1\Latest Project C#\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Admin_Update_Delete_Account.resources
+F:\Resubmission V 1\Latest Project C#\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Admin_Create_Account.resources
+F:\Resubmission V 1\Latest Project C#\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.View_Profile.resources
+F:\Resubmission V 1\Latest Project C#\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Edit_Own_Profile.resources
+F:\Resubmission V 1\Latest Project C#\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Manage_Store.resources
+F:\Resubmission V 1\Latest Project C#\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Admin_Update_Delete_Store.resources
+F:\Resubmission V 1\Latest Project C#\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Admin_Create_Store.resources
+F:\Resubmission V 1\Latest Project C#\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Show_Contact_Details.resources
+F:\Resubmission V 1\Latest Project C#\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Discount.resources
+F:\Resubmission V 1\Latest Project C#\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Manage_Supplier.resources
+F:\Resubmission V 1\Latest Project C#\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Admin_Update_Delete_Supplier.resources
+F:\Resubmission V 1\Latest Project C#\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Admin_Create_Supplier.resources
+F:\Resubmission V 1\Latest Project C#\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Manage_Category.resources
+F:\Resubmission V 1\Latest Project C#\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Admin_Update_Delete_Create_Category.resources
+F:\Resubmission V 1\Latest Project C#\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Manage_Product.resources
+F:\Resubmission V 1\Latest Project C#\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Admin_Update_Delete_Product.resources
+C:\Users\Tawhid\Desktop\ProjectFinal\StartUp_Page\StartUp_Page\bin\Debug\StartUp_Page.exe
+C:\Users\Tawhid\Desktop\ProjectFinal\StartUp_Page\StartUp_Page\bin\Debug\StartUp_Page.pdb
+C:\Users\Tawhid\Desktop\ProjectFinal\StartUp_Page\StartUp_Page\bin\Debug\Business_Logic_Layer.dll
+C:\Users\Tawhid\Desktop\ProjectFinal\StartUp_Page\StartUp_Page\bin\Debug\MetroFramework.Design.dll
+C:\Users\Tawhid\Desktop\ProjectFinal\StartUp_Page\StartUp_Page\bin\Debug\MetroFramework.dll
+C:\Users\Tawhid\Desktop\ProjectFinal\StartUp_Page\StartUp_Page\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Tawhid\Desktop\ProjectFinal\StartUp_Page\StartUp_Page\bin\Debug\Data_Access_Layer.dll
+C:\Users\Tawhid\Desktop\ProjectFinal\StartUp_Page\StartUp_Page\bin\Debug\Business_Logic_Layer.pdb
+C:\Users\Tawhid\Desktop\ProjectFinal\StartUp_Page\StartUp_Page\bin\Debug\Data_Access_Layer.pdb
+C:\Users\Tawhid\Desktop\ProjectFinal\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.csprojResolveAssemblyReference.cache
+C:\Users\Tawhid\Desktop\ProjectFinal\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Admin_Update_Delete_Account.resources
+C:\Users\Tawhid\Desktop\ProjectFinal\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Admin_Update_Delete_Store.resources
+C:\Users\Tawhid\Desktop\ProjectFinal\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Admin_Update_Delete_Supplier.resources
+C:\Users\Tawhid\Desktop\ProjectFinal\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Admin_Create_Account.resources
+C:\Users\Tawhid\Desktop\ProjectFinal\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Admin_Create_Store.resources
+C:\Users\Tawhid\Desktop\ProjectFinal\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Admin_Create_Supplier.resources
+C:\Users\Tawhid\Desktop\ProjectFinal\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Admin_Update_Delete_Create_Category.resources
+C:\Users\Tawhid\Desktop\ProjectFinal\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Admin_Update_Delete_Product.resources
+C:\Users\Tawhid\Desktop\ProjectFinal\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Discount.resources
+C:\Users\Tawhid\Desktop\ProjectFinal\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Edit_Own_Profile.resources
+C:\Users\Tawhid\Desktop\ProjectFinal\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Leave_a_Comment.resources
+C:\Users\Tawhid\Desktop\ProjectFinal\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Login_SignUp.resources
+C:\Users\Tawhid\Desktop\ProjectFinal\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.All_User.resources
+C:\Users\Tawhid\Desktop\ProjectFinal\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Manage_Account.resources
+C:\Users\Tawhid\Desktop\ProjectFinal\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Manage_Category.resources
+C:\Users\Tawhid\Desktop\ProjectFinal\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Manage_Product.resources
+C:\Users\Tawhid\Desktop\ProjectFinal\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Manage_Store.resources
+C:\Users\Tawhid\Desktop\ProjectFinal\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Manage_Supplier.resources
+C:\Users\Tawhid\Desktop\ProjectFinal\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Place_Order_Supplier.resources
+C:\Users\Tawhid\Desktop\ProjectFinal\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Show_Contact_Details.resources
+C:\Users\Tawhid\Desktop\ProjectFinal\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Sign_Up.resources
+C:\Users\Tawhid\Desktop\ProjectFinal\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Start_Up.resources
+C:\Users\Tawhid\Desktop\ProjectFinal\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Properties.Resources.resources
+C:\Users\Tawhid\Desktop\ProjectFinal\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.SplashScreen.resources
+C:\Users\Tawhid\Desktop\ProjectFinal\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.View_Profile.resources
+C:\Users\Tawhid\Desktop\ProjectFinal\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Voice_Search.resources
+C:\Users\Tawhid\Desktop\ProjectFinal\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.csproj.GenerateResource.Cache
+C:\Users\Tawhid\Desktop\ProjectFinal\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.csproj.CoreCompileInputs.cache
+C:\Users\Tawhid\Desktop\ProjectFinal\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.exe
+C:\Users\Tawhid\Desktop\ProjectFinal\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.pdb
+C:\Users\Tawhid\Desktop\Resubmission V2\StartUp_Page\StartUp_Page\bin\Debug\StartUp_Page.exe
+C:\Users\Tawhid\Desktop\Resubmission V2\StartUp_Page\StartUp_Page\bin\Debug\StartUp_Page.pdb
+C:\Users\Tawhid\Desktop\Resubmission V2\StartUp_Page\StartUp_Page\bin\Debug\Business_Logic_Layer.dll
+C:\Users\Tawhid\Desktop\Resubmission V2\StartUp_Page\StartUp_Page\bin\Debug\MetroFramework.Design.dll
+C:\Users\Tawhid\Desktop\Resubmission V2\StartUp_Page\StartUp_Page\bin\Debug\MetroFramework.dll
+C:\Users\Tawhid\Desktop\Resubmission V2\StartUp_Page\StartUp_Page\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Tawhid\Desktop\Resubmission V2\StartUp_Page\StartUp_Page\bin\Debug\Data_Access_Layer.dll
+C:\Users\Tawhid\Desktop\Resubmission V2\StartUp_Page\StartUp_Page\bin\Debug\Business_Logic_Layer.pdb
+C:\Users\Tawhid\Desktop\Resubmission V2\StartUp_Page\StartUp_Page\bin\Debug\Data_Access_Layer.pdb
+C:\Users\Tawhid\Desktop\Resubmission V2\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.csprojResolveAssemblyReference.cache
+C:\Users\Tawhid\Desktop\Resubmission V2\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Admin_Update_Delete_Account.resources
+C:\Users\Tawhid\Desktop\Resubmission V2\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Admin_Update_Delete_Store.resources
+C:\Users\Tawhid\Desktop\Resubmission V2\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Admin_Update_Delete_Supplier.resources
+C:\Users\Tawhid\Desktop\Resubmission V2\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Admin_Create_Account.resources
+C:\Users\Tawhid\Desktop\Resubmission V2\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Admin_Create_Store.resources
+C:\Users\Tawhid\Desktop\Resubmission V2\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Admin_Create_Supplier.resources
+C:\Users\Tawhid\Desktop\Resubmission V2\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Admin_Update_Delete_Create_Category.resources
+C:\Users\Tawhid\Desktop\Resubmission V2\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Admin_Update_Delete_Product.resources
+C:\Users\Tawhid\Desktop\Resubmission V2\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Discount.resources
+C:\Users\Tawhid\Desktop\Resubmission V2\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Edit_Own_Profile.resources
+C:\Users\Tawhid\Desktop\Resubmission V2\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Leave_a_Comment.resources
+C:\Users\Tawhid\Desktop\Resubmission V2\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Login_SignUp.resources
+C:\Users\Tawhid\Desktop\Resubmission V2\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.All_User.resources
+C:\Users\Tawhid\Desktop\Resubmission V2\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Manage_Account.resources
+C:\Users\Tawhid\Desktop\Resubmission V2\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Manage_Category.resources
+C:\Users\Tawhid\Desktop\Resubmission V2\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Manage_Product.resources
+C:\Users\Tawhid\Desktop\Resubmission V2\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Manage_Store.resources
+C:\Users\Tawhid\Desktop\Resubmission V2\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Manage_Supplier.resources
+C:\Users\Tawhid\Desktop\Resubmission V2\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Place_Order_Supplier.resources
+C:\Users\Tawhid\Desktop\Resubmission V2\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Show_Contact_Details.resources
+C:\Users\Tawhid\Desktop\Resubmission V2\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Sign_Up.resources
+C:\Users\Tawhid\Desktop\Resubmission V2\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Start_Up.resources
+C:\Users\Tawhid\Desktop\Resubmission V2\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Properties.Resources.resources
+C:\Users\Tawhid\Desktop\Resubmission V2\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.SplashScreen.resources
+C:\Users\Tawhid\Desktop\Resubmission V2\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.View_Profile.resources
+C:\Users\Tawhid\Desktop\Resubmission V2\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Voice_Search.resources
+C:\Users\Tawhid\Desktop\Resubmission V2\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.csproj.GenerateResource.Cache
+C:\Users\Tawhid\Desktop\Resubmission V2\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.csproj.CoreCompileInputs.cache
+C:\Users\Tawhid\Desktop\Resubmission V2\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.exe
+C:\Users\Tawhid\Desktop\Resubmission V2\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.pdb
+C:\Users\Tawhid\Desktop\Resubmission V2\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Search_All_Products.resources
+F:\Resubmission V2 Latest_2\Resubmission V2\StartUp_Page\StartUp_Page\bin\Debug\StartUp_Page.exe
+F:\Resubmission V2 Latest_2\Resubmission V2\StartUp_Page\StartUp_Page\bin\Debug\StartUp_Page.pdb
+F:\Resubmission V2 Latest_2\Resubmission V2\StartUp_Page\StartUp_Page\bin\Debug\Business_Logic_Layer.dll
+F:\Resubmission V2 Latest_2\Resubmission V2\StartUp_Page\StartUp_Page\bin\Debug\MetroFramework.Design.dll
+F:\Resubmission V2 Latest_2\Resubmission V2\StartUp_Page\StartUp_Page\bin\Debug\MetroFramework.dll
+F:\Resubmission V2 Latest_2\Resubmission V2\StartUp_Page\StartUp_Page\bin\Debug\MetroFramework.Fonts.dll
+F:\Resubmission V2 Latest_2\Resubmission V2\StartUp_Page\StartUp_Page\bin\Debug\Data_Access_Layer.dll
+F:\Resubmission V2 Latest_2\Resubmission V2\StartUp_Page\StartUp_Page\bin\Debug\Business_Logic_Layer.pdb
+F:\Resubmission V2 Latest_2\Resubmission V2\StartUp_Page\StartUp_Page\bin\Debug\Data_Access_Layer.pdb
+F:\Resubmission V2 Latest_2\Resubmission V2\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.csprojResolveAssemblyReference.cache
+F:\Resubmission V2 Latest_2\Resubmission V2\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Admin_Update_Delete_Account.resources
+F:\Resubmission V2 Latest_2\Resubmission V2\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Admin_Update_Delete_Store.resources
+F:\Resubmission V2 Latest_2\Resubmission V2\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Admin_Update_Delete_Supplier.resources
+F:\Resubmission V2 Latest_2\Resubmission V2\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Admin_Create_Account.resources
+F:\Resubmission V2 Latest_2\Resubmission V2\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Admin_Create_Store.resources
+F:\Resubmission V2 Latest_2\Resubmission V2\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Admin_Create_Supplier.resources
+F:\Resubmission V2 Latest_2\Resubmission V2\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Admin_Update_Delete_Create_Category.resources
+F:\Resubmission V2 Latest_2\Resubmission V2\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Admin_Update_Delete_Product.resources
+F:\Resubmission V2 Latest_2\Resubmission V2\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Discount.resources
+F:\Resubmission V2 Latest_2\Resubmission V2\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Edit_Own_Profile.resources
+F:\Resubmission V2 Latest_2\Resubmission V2\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Leave_a_Comment.resources
+F:\Resubmission V2 Latest_2\Resubmission V2\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Login_SignUp.resources
+F:\Resubmission V2 Latest_2\Resubmission V2\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.All_User.resources
+F:\Resubmission V2 Latest_2\Resubmission V2\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Manage_Account.resources
+F:\Resubmission V2 Latest_2\Resubmission V2\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Manage_Category.resources
+F:\Resubmission V2 Latest_2\Resubmission V2\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Manage_Product.resources
+F:\Resubmission V2 Latest_2\Resubmission V2\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Manage_Store.resources
+F:\Resubmission V2 Latest_2\Resubmission V2\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Manage_Supplier.resources
+F:\Resubmission V2 Latest_2\Resubmission V2\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Place_Order_Supplier.resources
+F:\Resubmission V2 Latest_2\Resubmission V2\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Search_All_Products.resources
+F:\Resubmission V2 Latest_2\Resubmission V2\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Show_Contact_Details.resources
+F:\Resubmission V2 Latest_2\Resubmission V2\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Sign_Up.resources
+F:\Resubmission V2 Latest_2\Resubmission V2\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Start_Up.resources
+F:\Resubmission V2 Latest_2\Resubmission V2\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Properties.Resources.resources
+F:\Resubmission V2 Latest_2\Resubmission V2\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.SplashScreen.resources
+F:\Resubmission V2 Latest_2\Resubmission V2\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.View_Profile.resources
+F:\Resubmission V2 Latest_2\Resubmission V2\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Voice_Search.resources
+F:\Resubmission V2 Latest_2\Resubmission V2\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.csproj.GenerateResource.cache
+F:\Resubmission V2 Latest_2\Resubmission V2\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.csproj.CoreCompileInputs.cache
+F:\Resubmission V2 Latest_2\Resubmission V2\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.csproj.CopyComplete
+F:\Resubmission V2 Latest_2\Resubmission V2\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.exe
+F:\Resubmission V2 Latest_2\Resubmission V2\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.pdb
+F:\Editing Going On\Resubmission V2\StartUp_Page\StartUp_Page\bin\Debug\StartUp_Page.exe
+F:\Editing Going On\Resubmission V2\StartUp_Page\StartUp_Page\bin\Debug\StartUp_Page.pdb
+F:\Editing Going On\Resubmission V2\StartUp_Page\StartUp_Page\bin\Debug\Business_Logic_Layer.dll
+F:\Editing Going On\Resubmission V2\StartUp_Page\StartUp_Page\bin\Debug\MetroFramework.Design.dll
+F:\Editing Going On\Resubmission V2\StartUp_Page\StartUp_Page\bin\Debug\MetroFramework.dll
+F:\Editing Going On\Resubmission V2\StartUp_Page\StartUp_Page\bin\Debug\MetroFramework.Fonts.dll
+F:\Editing Going On\Resubmission V2\StartUp_Page\StartUp_Page\bin\Debug\Data_Access_Layer.dll
+F:\Editing Going On\Resubmission V2\StartUp_Page\StartUp_Page\bin\Debug\Business_Logic_Layer.pdb
+F:\Editing Going On\Resubmission V2\StartUp_Page\StartUp_Page\bin\Debug\Data_Access_Layer.pdb
+F:\Editing Going On\Resubmission V2\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.csprojResolveAssemblyReference.cache
+F:\Editing Going On\Resubmission V2\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Admin_Update_Delete_Account.resources
+F:\Editing Going On\Resubmission V2\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Admin_Update_Delete_Store.resources
+F:\Editing Going On\Resubmission V2\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Admin_Update_Delete_Supplier.resources
+F:\Editing Going On\Resubmission V2\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Admin_Create_Account.resources
+F:\Editing Going On\Resubmission V2\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Admin_Create_Store.resources
+F:\Editing Going On\Resubmission V2\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Admin_Create_Supplier.resources
+F:\Editing Going On\Resubmission V2\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Admin_Update_Delete_Create_Category.resources
+F:\Editing Going On\Resubmission V2\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Admin_Update_Delete_Product.resources
+F:\Editing Going On\Resubmission V2\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Discount.resources
+F:\Editing Going On\Resubmission V2\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Edit_Own_Profile.resources
+F:\Editing Going On\Resubmission V2\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Leave_a_Comment.resources
+F:\Editing Going On\Resubmission V2\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Login_SignUp.resources
+F:\Editing Going On\Resubmission V2\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.All_User.resources
+F:\Editing Going On\Resubmission V2\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Manage_Account.resources
+F:\Editing Going On\Resubmission V2\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Manage_Category.resources
+F:\Editing Going On\Resubmission V2\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Manage_Product.resources
+F:\Editing Going On\Resubmission V2\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Manage_Store.resources
+F:\Editing Going On\Resubmission V2\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Manage_Supplier.resources
+F:\Editing Going On\Resubmission V2\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Place_Order_Supplier.resources
+F:\Editing Going On\Resubmission V2\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Search_All_Products.resources
+F:\Editing Going On\Resubmission V2\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Show_Contact_Details.resources
+F:\Editing Going On\Resubmission V2\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Sign_Up.resources
+F:\Editing Going On\Resubmission V2\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Start_Up.resources
+F:\Editing Going On\Resubmission V2\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Properties.Resources.resources
+F:\Editing Going On\Resubmission V2\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.SplashScreen.resources
+F:\Editing Going On\Resubmission V2\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.View_Profile.resources
+F:\Editing Going On\Resubmission V2\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Voice_Search.resources
+F:\Editing Going On\Resubmission V2\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.csproj.GenerateResource.cache
+F:\Editing Going On\Resubmission V2\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.csproj.CoreCompileInputs.cache
+F:\Editing Going On\Resubmission V2\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.csproj.CopyComplete
+F:\Editing Going On\Resubmission V2\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.exe
+F:\Editing Going On\Resubmission V2\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.pdb
+F:\Editing Going On\Resubmission V2\StartUp_Page\StartUp_Page\bin\Debug\itextsharp.dll
+F:\Editing Going On\Resubmission V2\StartUp_Page\StartUp_Page\bin\Debug\itextsharp.pdfa.dll
+F:\Editing Going On\Resubmission V2\StartUp_Page\StartUp_Page\bin\Debug\itextsharp.xtra.dll
+F:\Editing Going On\Resubmission V2\StartUp_Page\StartUp_Page\bin\Debug\itextsharp.xml
+F:\Editing Going On\Resubmission V2\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Bill_Generate.resources
+F:\Editing Going On\Resubmission V2\StartUp_Page\StartUp_Page\obj\Debug\StartUp_Page.Admin_Create_Product.resources
